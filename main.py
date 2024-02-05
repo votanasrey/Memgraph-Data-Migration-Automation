@@ -7,7 +7,7 @@ mg_service = memgraph_service()
 
 print("Querying the dataset ...")
 
-query = '''SELECT * FROM DataScience_DB.General_DB.dbo.true_receivers_oct LIMIT 10 '''
+query = '''Query here '''
 data = get_dremio_data(query)
 data = pd.DataFrame(data) 
 

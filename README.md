@@ -27,11 +27,11 @@ pip install -r requirements.txt
 
 4. Create the .env file
 ```bash
-DREMIO_HOST = "10.4.3.50"
+DREMIO_HOST = "dremio_host"
 DREMIO_PORT = "32010"
 DREMIO_USER = "user"
 DREMIO_PW = "123"
-MEMGRAPH_HOST = "10.6.6.38"
+MEMGRAPH_HOST = "memgraph_host"
 ``` 
 
 5. Run the program 
