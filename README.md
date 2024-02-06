@@ -12,7 +12,7 @@ by running this script, it will transaction the data from the specificed data ba
 1. Git Clone the repository
 
 ```bash
-git clone https://gitlabuat.ababank.com/SREY.Votana/memgraph-data-migration-application.git
+git clone https://github.com/votanasrey/Memgraph-Data-Migration-Automation.git
 ``` 
 
 2. Create the python virtual environment
